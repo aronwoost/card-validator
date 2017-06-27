@@ -23,6 +23,6 @@
     "sinon-chai": "^2.7.0"
   },
   "dependencies": {
-    "credit-card-type": "^5.0.0"
+    "credit-card-type": "git://github.com/aronwoost/credit-card-type.git#b2979d339b8f1bcab40467dce776dc3b1ac041ae"
   }
 }
